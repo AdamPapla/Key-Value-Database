@@ -1,4 +1,4 @@
-CC=mpicc
+CC=gcc
 CFLAGS= -Wall -Wextra
 SFILES= index.c set.c get.c
 HFILES= definitions.h index.h set.h get.h
